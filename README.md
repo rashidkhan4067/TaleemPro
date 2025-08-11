@@ -5,6 +5,8 @@
 A comprehensive, offline school management system built with Python and Tkinter, designed to streamline educational institution operations with modern UI/UX and robust functionality.
 
 ---
+## Demo Video on Tiktok
+https://www.tiktok.com/@rashidshafique.09/photo/7517295250428169490?is_from_webapp=1&sender_device=pc&web_id=7537227827842811414
 
 ## 🌟 Features
 
